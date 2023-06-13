@@ -1,6 +1,6 @@
-import React, { useState, useRef } from "react";
+import React from "react";
 import "../styles/info-detail.css";
-import { Container, Row, Col, ListGroup } from "reactstrap";
+import { Container, Row, Col } from "reactstrap";
 import { useParams } from "react-router-dom";
 import eventData from "../assets/data/event";
 import Join from "../components/Apply/Join";
