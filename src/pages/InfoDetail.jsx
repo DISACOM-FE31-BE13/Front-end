@@ -9,24 +9,9 @@ const InfoDetails = () => {
   const { id } = useParams();
   const info = infoData.find((info) => info.id === id);
 
-  const [review, setReview] = useState("");
-  const [reviews, setReviews] = useState(info.reviews);
+  const [reviews] = useState(info.reviews);
 
   const { photo, title, desc, city, type } = info;
-
-  const handleReviewSubmit = (e) => {
-    e.preventDefault();
-    if (review.trim() !== "") {
-      const newReview = {
-        id: reviews.length + 1,
-        content: review,
-        // Add additional properties if needed
-      };
-
-      setReviews([...reviews, newReview]);
-      setReview("");
-    }
-  };
 
   return (
     <>
