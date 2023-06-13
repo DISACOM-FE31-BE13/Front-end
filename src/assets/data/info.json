@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Video Editor",
+    "city": "Bogor-Jawa Barat",
+    "jenis": "Mentally impaired",
+    "desc": "Ruveetex is a fabric distributor that continues to grow by selling the best quality and most trusted materials in Jabodetabek. It has been around for more than 10 years. Our products are supported by large factories in Indonesia who have experience in having the best quality materials for decades. Our team is ready to serve all the needs of our customers with the best service. Ruveetex prepares hundreds of color choices for customers. We also provide custom color services for those of you who want to make a special color.",
+    "reviews": [],
+
+    "photo": "/info-images/coba.jpg",
+    "featured": true
+  },
+  {
+    "title": "Conten Creator",
+    "city": "Bogor-Jawa Barat",
+    "jenis": "Mentally impaired",
+    "desc": "Ruveetex is a fabric distributor that continues to grow by selling the best quality and most trusted materials in Jabodetabek. It has been around for more than 10 years. Our products are supported by large factories in Indonesia who have experience in having the best quality materials for decades. Our team is ready to serve all the needs of our customers with the best service. Ruveetex prepares hundreds of color choices for customers. We also provide custom color services for those of you who want to make a special color.",
+    "reviews": [],
+
+    "photo": "/info-images/coba.jpg",
+    "featured": true
+  },
+  {
+    "title": "Full Stack Developer",
+    "city": "Surabaya-Jawa Timur",
+    "jenis": "Mentally impaired",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/info-images/coba.jpg",
+    "featured": true
+  },
+  {
+    "title": "Web Developer",
+    "city": "Bantul-Yogyakarta",
+    "jenis": "All Disability",
+    "desc": "Kay Homedecor is natural fiber from Indonesia. We produce many products such as basket, lampshade, rugs, wall decor, and many other things which are made by rattan, water hyacinth, banana, sisal, mendong, and bamboo. Also we can make other materials by request. We have developed over the years. Since 2018, our products have been shipped to around the world such as Turkey, Spain, California, Albania, and many more.",
+    "reviews": [],
+
+    "photo": "/info-images/kay2.jpg",
+    "featured": true
+  },
+  {
+    "title": "Graphic Design",
+    "city": "Bogor-Jawa Barat",
+    "jenis": "Mentally impaired",
+    "desc": "Ruveetex is a fabric distributor that continues to grow by selling the best quality and most trusted materials in Jabodetabek. It has been around for more than 10 years. Our products are supported by large factories in Indonesia who have experience in having the best quality materials for decades. Our team is ready to serve all the needs of our customers with the best service. Ruveetex prepares hundreds of color choices for customers. We also provide custom color services for those of you who want to make a special color.",
+    "reviews": [],
+
+    "photo": "/info-images/coba.jpg",
+    "featured": true
+  },
+  {
+    "title": "Digital Campaign Optimizer",
+    "city": "Bantul-Yogyakarta",
+    "jenis": "All Disabilty",
+    "desc": "Kay Homedecor is natural fiber from Indonesia. We produce many products such as basket, lampshade, rugs, wall decor, and many other things which are made by rattan, water hyacinth, banana, sisal, mendong, and bamboo. Also we can make other materials by request. We have developed over the years. Since 2018, our products have been shipped to around the world such as Turkey, Spain, California, Albania, and many more.",
+    "reviews": [],
+
+    "photo": "/info-images/kay2.jpg",
+    "featured": true
+  },
+  {
+    "title": "Helper Alfamidi",
+    "city": "Tangerang",
+    "jenis": "Mentally impaired",
+    "desc": "PT Midi Utama Indonesia Tbk is a retail network that is easily accessible to the wider community. At the end of 2017 the number of the Company's outlets reached 1,444 outlets consisting of 1,396 Alfamidi outlets, 11 Alfamidi super outlets and 37 Lawson outlets spread across several Indonesian islands including the islands of Java, Kalimantan, Sumatra and Sulawesi. The outlet network consists of self-owned outlets and in the form of franchise partnerships with third parties. Supported by more than 19,000 employees, the Company serves millions of customers throughout Indonesia.",
+    "reviews": [],
+
+    "photo": "/info-images/alfamidi.jpg",
+    "featured": true
+  },
+  {
+    "title": "Sosial Media Intern",
+    "city": "Jakarta",
+    "jenis": "All Disability",
+    "desc": "PT. Kreasi Semesta Raya was founded in May 2003 as a company that markets vehicle protection products under the Otogard brand. Otogard is a vehicle protection product that is applied using high quality materials. Developed with the most modern technology and produced by experienced and tested companies. In 2007, PT. Kreasi Semesta Raya is developing its business in the field of Engine Treatment with the concept of: restoring vehicle engine performance quickly, easily and safely. These treatment products include: Injector Cleaner, Engine Flush, Brake Cleaner, Colling System etc",
+    "reviews": [],
+
+    "photo": "/info-images/sosial.jpg",
+    "featured": true
+  },
+  {
+    "title": "Beauty Vlogger",
+    "city": "Jakarta",
+    "jenis": "All Disability",
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/info-images/coba.jpg",
+    "featured": false
+  },
+  {
+    "title": "Agent Contact Center",
+    "city": "DKI Jakarta",
+    "Jenis": "Mentally impaired",
+    "desc": "PT Telkom Indonesia (Persero) Tbk (Telkom) is a State-Owned Enterprise (BUMN) engaged in information and communication technology (ICT) services and telecommunications networks in Indonesia. Telkom's majority shareholder is the Government of the Republic of Indonesia with 52.09%, while the remaining 47.91% is controlled by the public. Telkom shares are traded on the Indonesia Stock Exchange (IDX) with the code TLKM and the New York Stock Exchange (NYSE) with the code TLK.",
+    "reviews": [],
+
+    "photo": "/info-images/infomedia1.jpg",
+    "featured": false
+  }
+]
