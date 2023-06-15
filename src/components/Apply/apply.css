@@ -1,0 +1,28 @@
+.apply__form h3 {
+  margin-bottom: 2rem;
+}
+.apply__form {
+  padding: 2rem;
+  border: 3px solid var(--secondary-color);
+  border-radius: 0.5rem;
+}
+
+.apply__form input {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  color: var(--heading-color);
+  font-size: 1rem;
+  border: 1px solid rgb(137, 162, 211);
+}
+
+.apply__form input:focus {
+  outline: none;
+}
+
+button {
+  width: 100%;
+  padding: 0.5rem;
+  color: #fff;
+  background-color: var(--secondary-color) !important;
+}
